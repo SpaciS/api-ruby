@@ -3,7 +3,7 @@ require 'spacis/version'
 
 Gem::Specification.new do |s|
     s.name = "spacis"
-    s.version = Adauth::Version
+    s.version = Spacis::Version
     s.platform = Gem::Platform::RUBY
     s.authors = ["Adam \"Arcath\" Laycock"]
     s.email = ["api@spacis.co.uk"]
