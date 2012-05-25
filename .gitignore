@@ -1,0 +1,6 @@
+.DS_STORE
+pkg/*
+tmp/*
+doc/*
+yardoc/*
+.rvmrc
